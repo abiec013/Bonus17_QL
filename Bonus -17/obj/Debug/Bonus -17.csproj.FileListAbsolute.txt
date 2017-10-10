@@ -1,0 +1,7 @@
+c:\users\abe\source\repos\Bonus -17\Bonus -17\bin\Debug\Bonus -17.exe.config
+c:\users\abe\source\repos\Bonus -17\Bonus -17\bin\Debug\Bonus -17.exe
+c:\users\abe\source\repos\Bonus -17\Bonus -17\bin\Debug\Bonus -17.pdb
+c:\users\abe\source\repos\Bonus -17\Bonus -17\obj\Debug\Bonus -17.csprojResolveAssemblyReference.cache
+c:\users\abe\source\repos\Bonus -17\Bonus -17\obj\Debug\Bonus -17.csproj.CoreCompileInputs.cache
+c:\users\abe\source\repos\Bonus -17\Bonus -17\obj\Debug\Bonus -17.exe
+c:\users\abe\source\repos\Bonus -17\Bonus -17\obj\Debug\Bonus -17.pdb
